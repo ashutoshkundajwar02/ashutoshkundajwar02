@@ -1,4 +1,4 @@
-<img width="1583" height="396" alt="image" src="https://github.com/user-attachments/assets/ced69926-6ef7-4cf8-a7f5-124ddb048fe2" />
+<img width="1583" height="396" alt="image" src="https://github.com/user-attachments/assets/25633c2c-c8e5-484c-b08d-6e06811e975c" />
 
 
 <h1 align="center">Hey there 🙋🏻‍♀️, I'm Ashutosh Kundajwar so glad you're here ! </h1>
