@@ -42,6 +42,20 @@
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
     </div>
   </div>
+
+  <!-- ================= CONTRIBUTION OVERVIEW ================= -->
+<h2 align="left">📊 GitHub Contribution Overview</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshkundajwar02&theme=react-dark&hide_border=true"
+    alt="Contribution Graph"
+    width="100%"
+  />
+</div>
+
+<br>
+
 <h2 align="left">Support:</h2>
 <p><a href="https://ko-fi.com/ashutoshkundajwar02"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ashutoshkundajwar02" /></a></p><br><br>
 
@@ -65,20 +79,80 @@
   </div>
 
   <div class="section">
-    <h2>🏆 GitHub Trophies</h2>
-    <div class="trophies">
-      <img src="https://github-profile-trophy.vercel.app/?username=ashutoshkundajwar02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-    </div>
-  </div>
+  <h2 align="center">🏆 GitHub Achievements</h2>
 
-  <hr>
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ashutoshkundajwar02&theme=radical&no-frame=true&no-bg=true&margin-w=10"
+    <img src="https://github-profile-trophy.vercel.app/?username=ashutoshkundajwar02&theme=onedark&no-frame=true" />
+    alt="Ashutosh's GitHub Trophies"
+  />
+</div>
+
 
   <div class="section visitor">
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=ashutoshkundajwar02&icon=0&color=0" alt="Profile Views">
+      <img src="https://visitcount.itsvg.in/api?id=ashutoshkundajwar02&icon=5&color=12">
     </a>
   </div>
 
 </body>
 </html>
+
+
+<!-- ================= CONTRIBUTION STATS ================= -->
+<div align="left">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ashutoshkundajwar02&show_icons=true&theme=shadow_blue&hide_border=true"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkundajwar02&theme=shadow_blue&hide_border=true"
+    width="48%"
+  />
+
+</div>
+
+<br>
+
+<!-- ================= CONTRIBUTION BREAKDOWN ================= -->
+<h2 align="left">📌 Contribution Breakdown</h2>
+
+<div align="left">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/commit-details?username=ashutoshkundajwar02&theme=github_dark"
+    width="48%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashutoshkundajwar02&theme=github_dark&utcOffset=5.5"
+    width="48%"
+  />
+
+</div>
+
+<br>
+
+<!-- ================= TROPHIES ================= -->
+<h2 align="left">🏆 Achievements</h2>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ashutoshkundajwar02&theme=radical&no-frame=false&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</div>
+
+<hr>
+
+<!-- ================= VISITOR COUNTER ================= -->
+<div align="center">
+  <img
+    src="https://visitcount.itsvg.in/api?id=ashutoshkundajwar02&icon=0&color=0"
+    alt="Profile Visitors"
+  />
+</div>
 
