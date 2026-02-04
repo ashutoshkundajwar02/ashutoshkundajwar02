@@ -10,6 +10,8 @@
 
 - 💹 I’m currently learning **Statistics and Problem solving**
 
+- 🌐 Portfolio website at https://ashutosh-kundajwar.lovable.app/#contact
+
 - 👯 I’m looking to collaborate on **data analytics, Python, and SQL projects with impact**
 
 - 👨‍💻 All of my projects are available at [https://app.powerbi.com/view?r=eyJrIjoiZWMzYmE4ZDEtMGVlNS00ZDQzLWFlYWYtYmM2N2VkY2Q1MzU1IiwidCI6Ijg4MDMzMDFmLWZlODQtNDIyOS1iNjEzLTM0NzMyNjc5N2ZhOCJ9](https://app.powerbi.com/view?r=eyJrIjoiZWMzYmE4ZDEtMGVlNS00ZDQzLWFlYWYtYmM2N2VkY2Q1MzU1IiwidCI6Ijg4MDMzMDFmLWZlODQtNDIyOS1iNjEzLTM0NzMyNjc5N2ZhOCJ9)
