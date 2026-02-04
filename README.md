@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **data analytics, Python, and SQL projects with impact**
 
-- 👨‍💻 All of my projects are available at  https://ashutosh-kundajwar.lovable.app/#contact
+- 👨‍💻 My portfolio website - https://ashutosh-kundajwar.lovable.app/#contact
 
 - 💬 Ask me about **python | SQL | Excel**
 
