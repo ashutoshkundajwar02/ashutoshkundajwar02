@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/1460e0bd379986da2162a6f703fe54269add63ae623a82dfef922ee3d09997d0/68747470733a2f2f63686f6f6c732e696e2f77702d636f6e74656e742f75706c6f6164732f646174612d736369656e63652d322d312e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkundajwar02&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkundajwar02" /> </p>
 
-- 🔭 I’m currently working on **data analysis projects using Python and SQL, focusing on real-world datasets and insights.**
+- 🏋🏻‍♀️ I’m currently working on **data analysis projects using Python, SQL and etc, focusing on real-world insights.**
 
-- 🌱 I’m currently learning **Machine learning and problem solving**
+- 💹 I’m currently learning **Statistics and Problem solving**
 
-- 👯 I’m looking to collaborate on **data analytics, Python, and SQL projects with real-world impact**
+- 👯 I’m looking to collaborate on **data analytics, Python, and SQL projects with impact**
 
 - 👨‍💻 All of my projects are available at [https://app.powerbi.com/view?r=eyJrIjoiZWMzYmE4ZDEtMGVlNS00ZDQzLWFlYWYtYmM2N2VkY2Q1MzU1IiwidCI6Ijg4MDMzMDFmLWZlODQtNDIyOS1iNjEzLTM0NzMyNjc5N2ZhOCJ9](https://app.powerbi.com/view?r=eyJrIjoiZWMzYmE4ZDEtMGVlNS00ZDQzLWFlYWYtYmM2N2VkY2Q1MzU1IiwidCI6Ijg4MDMzMDFmLWZlODQtNDIyOS1iNjEzLTM0NzMyNjc5N2ZhOCJ9)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashutoshkundajwar02@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning complex problems into simple, practical solutions.**
+- ⚡ Fun fact **I enjoy turning complex problems into logical solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
