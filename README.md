@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 🙋🏻‍♂️, I'm Ashutosh Kundajwar so glad you're here ! </h1>
+<h1 align="center">Hey there 🙋🏻‍♀️, I'm Ashutosh Kundajwar so glad you're here ! </h1>
 <h3 align="center">A passionate Data Analyst from India Aspiring Data Analyst | Python • SQL • Excel</h3>
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/1460e0bd379986da2162a6f703fe54269add63ae623a82dfef922ee3d09997d0/68747470733a2f2f63686f6f6c732e696e2f77702d636f6e74656e742f75706c6f6164732f646174612d736369656e63652d322d312e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkundajwar02&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkundajwar02" /> </p>
